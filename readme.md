@@ -18,4 +18,4 @@ Future feature ideas include a command-line interface for choosing a different c
 
 `pip install -r requirements.txt`
 
-`python3 runner.py`
+`python runner.py`
